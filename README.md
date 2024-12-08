@@ -1,2 +1,2 @@
 # Projects
-Projects dome that shows application to problems
+Completed Engineering Projects with a focus in Applicable Projects and explained reasoning.
